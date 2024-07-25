@@ -78,5 +78,6 @@
     .weather {
         place-self: auto;
         width: fit-content;
+        border-radius: 0px;
     }
 }
