@@ -73,3 +73,9 @@
     width: 26px;
     margin-top: 10px;
 }
+
+@media only screen and (max-width: 435px){
+    .weather {
+        place-self: auto;
+    }
+}
